@@ -4,6 +4,6 @@ gem 'jekyll'
 gem 'redcarpet'
 gem 'rouge'
 
-gem 'bourbon'
+gem 'bourbon', '>= 4.2.2'
 gem 'sass'
-gem 'neat'
+gem 'neat', '>= 1.7.3'
